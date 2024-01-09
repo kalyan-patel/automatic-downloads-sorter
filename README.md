@@ -1,4 +1,5 @@
 AUTHOR: KALYAN PATEL
+
 INITIAL PROJECT INSPIRATION: https://github.com/mukundmadhav/declutter-downloads-folder-script/tree/main
 
 
