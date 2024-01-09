@@ -1,8 +1,5 @@
 AUTHOR: KALYAN PATEL
 
-INITIAL PROJECT INSPIRATION: https://github.com/mukundmadhav/declutter-downloads-folder-script/tree/main
-
-
 _automatic-downloads-sorter.py_ continuously checks the downloads folder for new files/folders, then sorts them based on extension (e.g. .pdf, .jpeg, .zip).
 
 - The script makes use of the "os" library to navigate directories, and the "shutil" library to move files around.
@@ -21,3 +18,6 @@ Under the "Actions" tab, configure the following
 - Add arguments:    _automatic-downloads-sorter.py_
 - Start in:         [PATH TO automatic-downloads-sorter.py]
 
+
+
+INITIAL PROJECT INSPIRATION: https://github.com/mukundmadhav/declutter-downloads-folder-script/tree/main
